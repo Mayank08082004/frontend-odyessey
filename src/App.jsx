@@ -20,7 +20,7 @@ function App() {
             <Route path="/calendar" element={<CalendarPage />} />
             <Route path="/fitness-tracking" element={<FitnessTracking />} />
             <Route path="/hospital-connect" element={<HospitalConnect />} />
-            <Route path="/checking-booking" element={<CheckupBooking />} />
+            <Route path="/checking-booking" element={<HospitalConnect />} />
           </Routes>
         </div>
       </div>

@@ -52,7 +52,15 @@ const LandingPage = () => {
       imageUrl: "https://cdn.usegalileo.ai/sdxl10/7eee8417-77a4-467b-806f-f24ade81dea5.png",
       title: "Pediatrics",
       description: "Connect with a pediatrician for children's health questions"
-    },
+    },{
+      imageUrl:"https://cdn.usegalileo.ai/sdxl10/815c722a-42be-41a1-be45-367508234f85.png",
+      title:" Sexual Health",
+      discripition:"Address sexual health issues like erectile dysfunction, STIs,and more"
+    },{
+      imageUrl:"https://cdn.usegalileo.ai/sdxl10/9707c62a-1769-4e5a-a70c-d403a59ceb6c.png",
+      title:" Therapy",
+      discripition:"Get guidance on weight management, food allergies, and more"
+    }
   ];
 
   return (
